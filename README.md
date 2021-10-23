@@ -1,1 +1,1 @@
-I'm are going to make a website containing recipes.
+I'm going to make a website containing recipes.
